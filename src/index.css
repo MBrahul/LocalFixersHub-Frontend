@@ -11,3 +11,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* commmon css */
+.section-heading{
+  font-size: 30px;
+  font-family: "Roboto Slab", serif;
+  font-weight: normal;
+}

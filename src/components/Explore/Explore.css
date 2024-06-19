@@ -1,0 +1,21 @@
+.explore-section{
+    font-family: "Roboto Slab", serif ;
+}
+.explore-section .container h2{
+    font-size: 30px;
+    font-weight: normal;
+}
+.explore-section .container h4{
+    font-size: 20px;
+    font-weight: normal;
+}
+.explore-section .container p{
+   font-weight: 350;
+}
+
+.mw{
+    max-width: 70% !important;
+}
+.mw form input:focus{
+    border-color: black !important;
+}
