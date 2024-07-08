@@ -16,7 +16,7 @@ export default function Services() {
         { "heading": "Cleaners" ,"img":cleaner},
     ])
     return (
-        <section className="services-section py-5">
+        <section className="services-section py-5" id='services'>
             <h1 className="section-heading text-center">Services We Provide</h1>
             <hr className='w-25 mx-auto' />
             <div className="container d-flex flex-wrap gap-5 justify-content-center py-5">

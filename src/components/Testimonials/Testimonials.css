@@ -1,0 +1,16 @@
+.testimonials-section{
+    /* padding: 10px */
+}
+.slider{
+    place-items: center;
+    overflow: scroll;
+    scroll-behavior: smooth;
+    width: 100%;
+}
+.slide-track{
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    width: fit-content;
+    justify-content: center;
+}
