@@ -20,8 +20,8 @@ export default function Footer() {
                     </div>
                 </div>
                 <div className="col-lg-4 col-12 text-center privacy">
-                    <a href="">Privacy Policy</a>
-                    <a href="" className='mt-2'>Terms of service</a>
+                    <a href="/">Privacy Policy</a>
+                    <a href="/" className='mt-2'>Terms of service</a>
                 </div>
             </div>
         </div>

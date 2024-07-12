@@ -5,6 +5,7 @@
 }
 .navbar-brand{
     font-weight:bolder !important;
+    font-size: 25px !important;
 }
 .nav-item a{
     border-bottom: 1px solid white!important;
@@ -13,4 +14,13 @@
 }
 .nav-item a:hover{
  border-bottom: 1px solid black !important;
+}
+.dropdown{
+    color: black !important;
+}
+.dropdown-menu li ,.dropdown-menu a{
+    border: none !important;
+}
+.dropdown-menu a:hover{
+    border-bottom: none !important;
 }
